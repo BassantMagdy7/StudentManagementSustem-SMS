@@ -1,0 +1,1 @@
+  Developed a web application using ASP.NET MVC with Google OAuth authentication, implementing full CRUD operations. Utilized the Repository Pattern and Unit of Work for efficient data management within a 3-tier architecture. Employed xUnit for robust unit testing to ensure reliability and performance.
